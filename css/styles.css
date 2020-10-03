@@ -123,9 +123,9 @@ body {
 header {
   height: 95vh;
   width: 100%;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(/image/header-bg.jpg);
-  -webkit-background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(/image/header-bg.jpg);
-  -moz-background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(/image/header-bg.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(../image/header-bg.jpg);
+  -webkit-background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(../image/header-bg.jpg);
+  -moz-background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(../image/header-bg.jpg);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -380,9 +380,9 @@ header {
         outline: 0.5rem solid #7ed56f; }
 
 .future-body {
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(/image/contactimage.jpg);
-  -webkit-background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(/mage/daniel-chen-546446-unsplash.jpg);
-  -moz-background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(/image/daniel-chen-546446-unsplash.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(../image/contactimage.jpg);
+  -webkit-background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(../mage/daniel-chen-546446-unsplash.jpg);
+  -moz-background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(85, 197, 122, 0.9)), url(../image/daniel-chen-546446-unsplash.jpg);
   background-size: cover;
   background-position: top;
   display: grid;
@@ -640,14 +640,14 @@ header {
     width: 80%;
     height: 80%;
     margin: 0px auto;
-    background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(/image/glenn-carstens-peters-282287-unsplash.jpg);
+    background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(../image/glenn-carstens-peters-282287-unsplash.jpg);
     background-size: cover;
     opacity: 0.9;
     z-index: -1;
     padding: 2rem 2rem; }
     @media only screen and (max-width: 50em) {
       .section-form .section-form-container {
-        background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, white 80%, transparent), url(/image/glenn-carstens-peters-282287-unsplash.jpg); } }
+        background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, white 80%, transparent), url(../image/glenn-carstens-peters-282287-unsplash.jpg); } }
     .section-form .section-form-container .u-centered-text {
       text-align: left;
       margin-bottom: 2rem; }
